@@ -2,6 +2,12 @@
 body {
   background: url(./bg.jpg);
   }
+  #app{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+  }
  
  .btn {
    display: inline-block;
